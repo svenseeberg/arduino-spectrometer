@@ -1,3 +1,7 @@
+This is an attempt to build a small, lightweight, cheap, diy spectrometer. The spectrometer was designed to work on a Watterott StarterKit Roboter V2. The robot can connected to a PC via bluetooth. A Python program can be used to remotely control the robot and spectrometer.
+
+The spectrometer itself (without Arduino) can be build for less than 40 €.
+
 Instructions about how to build the spectrometer can be found on https://sven-seeberg.de/wp/?p=812
 
 # required parts
