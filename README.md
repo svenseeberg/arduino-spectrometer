@@ -1,3 +1,5 @@
+Instructions about how to build the spectrometer can be found on https://sven-seeberg.de/wp/?p=812
+
 # required parts
 * 1x Black drinking straw
 * black tape
